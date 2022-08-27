@@ -1,14 +1,6 @@
 
 # E2ETesting-Cypress-aucedemo.com
 
-## Maiia aucedemo E2E
-
-## Installing
-
-[![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
-
-Install Cypress for Mac, Linux, or Windows, then [get started](https://docs.cypress.io/guides/getting-started/installing-cypress.html).
-
 ## How to install CypressIO
 
 ```bash
